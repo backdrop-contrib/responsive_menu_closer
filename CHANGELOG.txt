@@ -1,0 +1,5 @@
+Responsive Menu Closer
+===============
+
+2026-01-05
+  Initial commit to Backdrop CMS backdrop-contrib.

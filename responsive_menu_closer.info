@@ -1,0 +1,4 @@
+name = Responsive Menu Closer
+description = Closes the mobile/responsive Primary Navigation menu block if we tap or click outside of it.
+backdrop = 1.x
+type = module

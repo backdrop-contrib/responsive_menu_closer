@@ -1,0 +1,12 @@
+<?php
+
+
+/**
+ * Implements hook_init
+ */
+function responsive_menu_closer_init() {
+  
+  // Add our JS to every page.
+  backdrop_add_js(backdrop_get_path('module', 'responsive_menu_closer') . '/js/responsive_menu_closer.js');
+  
+}
